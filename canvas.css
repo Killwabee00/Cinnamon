@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background: linear-gradient(to bottom, #e793c1, #ece288, #86ade7, #e793c1);
+  color: white;
+  font-family: Cooper Black;
+  text-align: center;
+}
+
+#titulo {
+  font-size: 6vw;
+}
+
+#score {
+  font-size: 5vw;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
